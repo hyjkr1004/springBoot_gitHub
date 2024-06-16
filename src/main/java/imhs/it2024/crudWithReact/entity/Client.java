@@ -24,3 +24,5 @@ public class Client {
     private String name;
     private String email;
 }
+
+// 내용 수정해서 깃허브에 추가하자
